@@ -1,3 +1,8 @@
+A fork of Rav3nPL's p2pool-rav working on re-implementing Dogecoin (DOGE) p2pool support for the DOGE 1.8 wallet fork.
+
+NOTE: This fork is under heavy beta, and likely will not produce accepted blocks on the new DOGE fork.  This readme will be updated when this issue is resolved.  Other alt coins should work as expected in the original version.
+
+
 Requirements:
 -------------------------
 Generic:
@@ -20,8 +25,8 @@ Windows:
 
 Running P2Pool:
 -------------------------
-To use P2Pool, you must be running your own local bitcoind. For standard
-configurations, using P2Pool should be as simple as:
+To use P2Pool, you must be running your own local bitcoind (or other altcoin wallet server).
+For standard configurations, using P2Pool should be as simple as:
 
     python run_p2pool.py
 
@@ -37,7 +42,7 @@ Run for additional options.
 
 Donations towards further development:
 -------------------------
-    1HNeqi3pJRNvXybNX4FKzZgYJsdTSqJTbk
+    1PYyUSb426qvVBg3jvX2DPHweEWXNCBNqE
 
 Official wiki :
 -------------------------
@@ -47,11 +52,11 @@ Alternate web front end :
 -------------------------
 * https://github.com/hardcpp/P2PoolExtendedFrontEnd
 
-Notes for Litecoin:
+Notes for Litecoin and Dogecoin Support:
 =========================
 Requirements:
 -------------------------
-In order to run P2Pool with the Litecoin network, you would need to build and install the
+In order to run P2Pool with the Litecoin/Dogecoin network, you need to build and install the
 ltc_scrypt module that includes the scrypt proof of work code that Litecoin uses for hashes.
 
 Linux:
@@ -83,13 +88,13 @@ http://stackoverflow.com/questions/6034390/compiling-with-cython-and-mingw-produ
 
 Running P2Pool:
 -------------------------
-Run P2Pool with the "--net litecoin" option.
+Run P2Pool with the "--net litecoin" or "--net dogecoin" option.
 Run your miner program, connecting to 127.0.0.1 on port 9327.
 Forward port 9338 to the host running P2Pool.
 
 Litecoin's use of ports 9332 and 9332 conflicts with P2Pool running on
 the Bitcoin network. To avoid problems, add these lines to litecoin.conf
-and restart litecoind:
+and restart litecoind.  This should not affect Dogecoin ports:
 
     rpcport=10332
     port=10333
@@ -105,4 +110,4 @@ Sponsors:
 Thanks to:
 * The Bitcoin Foundation for its generous support of P2Pool
 * The Litecoin Project for its generous donations to P2Pool
-
+* Rav3nPL for contributions to p2pool nodes
