@@ -1,6 +1,6 @@
 A fork of Rav3nPL's p2pool-rav working on re-implementing Dogecoin (DOGE) p2pool support for the DOGE 1.8 wallet fork.
 
-NOTE: This fork is under heavy beta, and likely will not produce accepted blocks on the new DOGE fork.  This readme will be updated when this issue is resolved.  Other alt coins should work as expected in the original version.
+NOTE: This fork is under heavy beta, and likely will not produce accepted blocks on the new DOGE v1.8 wallet fork via p2pool.  This readme will be updated when this issue is resolved.  Other alt coins should work as expected in the original version.
 
 
 Requirements:
