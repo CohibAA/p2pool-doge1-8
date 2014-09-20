@@ -1,9 +1,62 @@
-A fork of Rav3nPL's p2pool-rav working on re-implementing Dogecoin (DOGE) p2pool support for the DOGE 1.8 wallet fork.
+A fork of [Rav3nPL](https://github.com/Rav3nPL/p2pool-rav)'s p2pool-rav to support Dogecoin v1.8 (DOGE) p2pool support for the DOGE 1.8 wallet fork.
 
-NOTE: This fork is under heavy beta, and likely will not produce accepted blocks on the new DOGE v1.8 wallet fork via p2pool.  This readme will be updated when this issue is resolved.  Other alt coins should work as expected in the original version.
+NOTE: This fork is still beta but should produce accepted blocks on the new DOGE v1.8 wallet fork via p2pool.  Please notify me of any issues.  The source has been tested for DOGE 1.8 and is in production currently on an Ubuntu 14.04 Server at [http://54.68.63.254:9555/static/](http://54.68.63.254:9555/static/)
+
+This git currently also supports the following altcoins:
+
+Aliencoin
+Antikeiser
+Argentum
+Asiccoin
+Billioncoin
+Bitcoin (BTC)
+Bytecoin
+Casinocoin
+Catcoin
+Coin42
+Coinye
+Digibyte
+Digitalcoin
+Dogecoin (DOGE)
+Doubloons
+Dubstepcoin
+Ecurrency
+Ekrona
+Fastcoin
+Fckbankscoin
+Feathercoin
+Foxcoin
+Frycoin
+Giftcoin
+Guldencoin
+Hawaiicoin
+Joulecoin
+Kittehcoin
+Leafcoin
+Lennycoin
+Litecoin (LTC)
+Luckycoin
+Monacoin
+Mooncoin
+Pesetacoin (PTS)
+Polcoin
+Polishcoin
+Reddcoin
+RCPcoin
+Smartcoin
+Solcoin
+Stablecoin
+SysCoin (SYS)
+Terracoin
+Tigercoin
+UFO
+Unobtanium
+USDE
+Worldcoin
+Zetacoin
 
 
-Requirements:
+Build Requirements:
 -------------------------
 Generic:
 * Bitcoin >=0.8.5
