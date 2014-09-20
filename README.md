@@ -92,56 +92,8 @@ Donations towards further development:
 
 This git currently also supports the following altcoins:
 
-Aliencoin
-Antikeiser
-Argentum
-Asiccoin
-Billioncoin
-Bitcoin (BTC)
-Bytecoin
-Casinocoin
-Catcoin
-Coin42
-Coinye
-Digibyte
-Digitalcoin
-Dogecoin (DOGE)
-Doubloons
-Dubstepcoin
-Ecurrency
-Ekrona
-Fastcoin
-Fckbankscoin
-Feathercoin
-Foxcoin
-Frycoin
-Giftcoin
-Guldencoin
-Hawaiicoin
-Joulecoin
-Kittehcoin
-Leafcoin
-Lennycoin
-Litecoin (LTC)
-Luckycoin
-Monacoin
-Mooncoin
-Pesetacoin (PTS)
-Polcoin
-Polishcoin
-Reddcoin
-RCPcoin
-Smartcoin
-Solcoin
-Stablecoin
-SysCoin (SYS)
-Terracoin
-Tigercoin
-UFO
-Unobtanium
-USDE
-Worldcoin
-Zetacoin
+Aliencoin, Antikeiser, Argentum, Asiccoin, Billioncoin, Bitcoin (BTC), Bytecoin, Casinocoin, Catcoin, Coin42, Coinye, Digibyte, Digitalcoin, Dogecoin (DOGE), Doubloons, Dubstepcoin, Ecurrency, Ekrona, Fastcoin, Fckbankscoin, Feathercoin, Foxcoin, Frycoin, Giftcoin, Guldencoin, Hawaiicoin, Joulecoin, Kittehcoin, Leafcoin, Lennycoin, Litecoin (LTC), Luckycoin, Monacoin, Mooncoin, Pesetacoin (PTS), Polcoin, Polishcoin, Reddcoin, RCPcoin, Smartcoin, Solcoin, Stablecoin, SysCoin (SYS), Terracoin, Tigercoin, UFO, Unobtanium, USDE, Worldcoin, Zetacoin
+
 
 Official wiki :
 -------------------------
