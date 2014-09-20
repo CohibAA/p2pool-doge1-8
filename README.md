@@ -76,35 +76,6 @@ Windows:
 * Install python win32 api wmi wrapper: https://pypi.python.org/pypi/WMI/#downloads
 * Unzip the files into C:\Python27\Lib\site-packages
 
-Running P2Pool:
--------------------------
-To use P2Pool, you must be running your own local bitcoind (or other altcoin wallet server).
-For standard configurations, using P2Pool should be as simple as:
-
-    python run_p2pool.py
-
-Then run your miner program, connecting to 127.0.0.1 on port 9332 with any
-username and password.
-
-If you are behind a NAT, you should enable TCP port forwarding on your
-router. Forward port 9333 to the host running P2Pool.
-
-Run for additional options.
-
-    python run_p2pool.py --help
-
-Donations towards further development:
--------------------------
-    1PYyUSb426qvVBg3jvX2DPHweEWXNCBNqE
-
-Official wiki :
--------------------------
-https://en.bitcoin.it/wiki/P2Pool
-
-Alternate web front end :
--------------------------
-* https://github.com/hardcpp/P2PoolExtendedFrontEnd
-
 Notes for Litecoin and Dogecoin Support:
 =========================
 Requirements:
@@ -138,6 +109,36 @@ In bash type this:
 	
 If you run into an error with unrecognized command line option '-mno-cygwin', see this:
 http://stackoverflow.com/questions/6034390/compiling-with-cython-and-mingw-produces-gcc-error-unrecognized-command-line-o
+
+Running P2Pool:
+-------------------------
+To use P2Pool, you must be running your own local bitcoind (or other altcoin wallet server).
+For standard configurations, using P2Pool should be as simple as:
+
+    python run_p2pool.py
+
+Then run your miner program, connecting to 127.0.0.1 on port 9332 with any
+username and password.
+
+If you are behind a NAT, you should enable TCP port forwarding on your
+router. Forward port 9333 to the host running P2Pool.
+
+Run for additional options.
+
+    python run_p2pool.py --help
+
+Donations towards further development:
+-------------------------
+    1PYyUSb426qvVBg3jvX2DPHweEWXNCBNqE
+
+Official wiki :
+-------------------------
+https://en.bitcoin.it/wiki/P2Pool
+
+Alternate web front end :
+-------------------------
+* https://github.com/hardcpp/P2PoolExtendedFrontEnd
+
 
 Running P2Pool:
 -------------------------
