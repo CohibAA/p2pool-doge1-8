@@ -1,4 +1,4 @@
-p2pool-ui-punchy
+[p2pool-ui-punchy](https://github.com/justino/p2pool-ui-punchy)
 ==================
 
 Another alternative p2pool UI.
