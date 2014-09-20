@@ -85,7 +85,10 @@ Run for additional options.
 
 Donations towards further development:
 -------------------------
-    1PYyUSb426qvVBg3jvX2DPHweEWXNCBNqE
+    1PYyUSb426qvVBg3jvX2DPHweEWXNCBNqE (BTC)
+    DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok (DOGE)
+    LWrLean4NmWfKxfTsFoPTkcvFiRRd7META (LTC)
+    
 
 This git currently also supports the following altcoins:
 
