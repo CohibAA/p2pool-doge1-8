@@ -1,6 +1,6 @@
 A fork of [Rav3nPL](https://github.com/Rav3nPL/p2pool-rav)'s p2pool-rav to support Dogecoin v1.8 (DOGE) p2pool support for the DOGE 1.8 wallet fork.
 
-NOTE: This fork is still beta but should produce accepted blocks on the new DOGE v1.8 wallet fork via p2pool.  Please notify me of any issues.  The source has been tested for DOGE 1.8 and is in production currently on an Ubuntu 14.04 Server at [http://54.68.63.254:9555/static/](http://54.68.63.254:9555/static/)
+NOTE: Please notify me of any issues.  The source has been tested for DOGE 1.8 and is in production currently on an Ubuntu 14.04 Server at [http://54.68.63.254:9555/static/](http://54.68.63.254:9555/static/)
 
 
 Build Requirements:
