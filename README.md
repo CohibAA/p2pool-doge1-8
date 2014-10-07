@@ -2,6 +2,8 @@ A fork of [Rav3nPL](https://github.com/Rav3nPL/p2pool-rav)'s p2pool-rav to suppo
 
 NOTE: Please notify me of any issues.  The source has been tested for DOGE 1.8 and is in production currently on an Ubuntu 14.04 Server at [http://www.dogecoin-p2pool.com](http://www.dogecoin-p2pool.com)
 
+NOTICE: the hash rate on the Doge p2pool network is very low due to [LTC p2pool](http://www.litecoin-p2pool.com) merge mining, so expect significant variance on payouts, especially with low hash rates.
+
 
 Build Requirements:
 -------------------------
@@ -85,9 +87,9 @@ Run for additional options.
 
 Donations towards further development:
 -------------------------
-    1PYyUSb426qvVBg3jvX2DPHweEWXNCBNqE (BTC)
+    1939BZFZnHEdKyHn2cYrg8kbUPz1UgkuqQ (BTC)
     DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok (DOGE)
-    LWrLean4NmWfKxfTsFoPTkcvFiRRd7META (LTC)
+    LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP (LTC)
     
 
 This git currently also supports the following altcoins:
