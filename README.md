@@ -80,9 +80,9 @@ For standard bitcoin configurations, using P2Pool should be as simple as:
     
 A normal dogecoind 1.8 startup configuration might look like this, where -a is your payout address and -n is the the main Doge p2pool node (change the payout address, but not the node IP):
 
-    python ~/p2pool-doge/run_p2pool.py --net dogecoin -a DQfThymvPs1bgCjPvmkmpUYJtiLSFQBmok -n 54.68.63.254
+    python ~/p2pool-doge/run_p2pool.py --net litecoin -a LcjmUck1PB2dZun9My9N2W8hwFpAfeEkfP -n 54.68.63.254
 
-Then run your miner program, connecting to 127.0.0.1 on port 9332 with any
+Then run your miner program, connecting to 127.0.0.1 on port 9555 with any
 username and password.
 
 If you are behind a NAT, you should enable TCP port forwarding on your
