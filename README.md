@@ -1,8 +1,8 @@
 A fork of [Rav3nPL](https://github.com/Rav3nPL/p2pool-rav)'s p2pool-rav to support Dogecoin (DOGE) p2pool support for the Dogecoin 1.8+ wallet fork.
 
-The dogecoin-p2pool network is active in production on an Ubuntu 14.04 Server at [http://www.dogecoin-p2pool.com](http://www.dogecoin-p2pool.com)
+[http://www.dogecoin-p2pool.com](http://www.dogecoin-p2pool.com)
 
-NOTICE: the hash rate on the Doge p2pool network is very low due to [LTC p2pool](http://www.litecoin-p2pool.com) merge mining, so expect significant variance on payouts, especially with low hash rates.
+NOTICE: the hash rate on the Doge p2pool network is very low due to [LTC p2pool](http://www.litecoin-p2pool.com) merge mining, so expect significant variance on payouts, or none at all, especially with low hash rates.
 
 Detailed instructions for installing Dogecoin-p2pool on Windows or Linux are available:
 
