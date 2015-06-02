@@ -1,14 +1,14 @@
-A fork of [Rav3nPL](https://github.com/Rav3nPL/p2pool-rav)'s p2pool-rav to support Dogecoin (DOGE) p2pool support for the Dogecoin 1.8+ wallet fork.
+A fork of [Rav3nPL](https://github.com/Rav3nPL/p2pool-rav)'s p2pool-rav to support Dogecoin (DOGE) p2pool after Dogecoin 1.8+ wallet fork. (DEPRECATED!)
 
 [http://www.dogecoin-p2pool.com](http://www.dogecoin-p2pool.com)
 
-NOTICE: the hash rate on the Doge p2pool network is very low due to [LTC p2pool](http://www.litecoin-p2pool.com) merge mining, so expect significant variance on payouts, or none at all, especially with low hash rates.
+NOTICE: This fork should not be used for mining, it is a reference only.  For actual p2pool mining, instead use [litecoin p2pool](http://www.litecoin-p2pool.com) with dogecoin merged mining.  If you decide to use this fork you should expect significant variance on payouts, or none at all.  Using this fork will not benefit the dogecoin p2pool network as well as proper merge mining of dogecoin on a litecoin p2pool node.
 
-Detailed instructions for installing Dogecoin-p2pool on Windows or Linux are available:
+Detailed instructions for installing Litecoin P2Pool with Dogecoin merge mining on Windows or Linux are at these links:
 
-[Dogecoin-p2pool Linux Install Guide](http://dogecoin-p2pool.com/How_To_Setup_A_Dogecoin_DOGE_p2pool_Node_on_AWS_Free.php)
+[Litecoin-p2pool with DOGE Merge Mining on Linux - Install Guide](http://dogecoin-p2pool.com/How_To_Setup_A_Dogecoin_DOGE_p2pool_Node_on_AWS_Free/)
 
-[Dogecoin-p2pool Windows Install Guide](http://dogecoin-p2pool.com/How_To_Setup_A_Dogecoin_DOGE_p2pool_Node_on_Windows.php)
+[Litecoin-p2pool with DOGE Merge Mining on Windows - Install Guide](http://dogecoin-p2pool.com/How_To_Setup_A_Dogecoin_DOGE_p2pool_Node_on_Windows/)
 
 
 
